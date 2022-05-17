@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/reactblog/static/css/main.14617054.css",
-    "main.js": "/reactblog/static/js/main.6fcc105b.js",
+    "main.js": "/reactblog/static/js/main.b8038571.js",
     "static/js/787.97d4b97a.chunk.js": "/reactblog/static/js/787.97d4b97a.chunk.js",
     "static/media/Desert.jpg": "/reactblog/static/media/Desert.41013bdee814979f3cb5.jpg",
     "index.html": "/reactblog/index.html",
     "main.14617054.css.map": "/reactblog/static/css/main.14617054.css.map",
-    "main.6fcc105b.js.map": "/reactblog/static/js/main.6fcc105b.js.map",
+    "main.b8038571.js.map": "/reactblog/static/js/main.b8038571.js.map",
     "787.97d4b97a.chunk.js.map": "/reactblog/static/js/787.97d4b97a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14617054.css",
-    "static/js/main.6fcc105b.js"
+    "static/js/main.b8038571.js"
   ]
 }
